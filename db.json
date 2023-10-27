@@ -1,0 +1,15 @@
+{
+	"vacantes":[
+				{"id":1, "Puesto":"Demostrador", "Tienda":"Hombres Ilustres","Salario":"4000"},
+				{"id":2, "Puesto":"Promotor", "Tienda":"Hombres Ilustres","Salario":"4000"},
+				{"id":3, "Puesto":"Gerente", "Tienda":"Toreo","Salario":"4000"},
+				{"id":4, "Puesto":"Cajero multifuncional", "Tienda":"Carrera","Salario":"4000"},
+				{"id":5, "Puesto":"Atención a clientes", "Tienda":"Carrera","Salario":"4000"},
+				{"id":6, "Puesto":"Promotor de ventas", "Tienda":"Hombres Ilustres","Salario":"4000"},
+				{"id":7, "Puesto":"Supervidor de demostradores", "Tienda":"Carrera","Salario":"4000"},
+				{"id":8, "Puesto":"Demostrador", "Tienda":"Carrera","Salario":"4000"},
+				{"id":9, "Puesto":"Asesor de ventas", "Tienda":"Hombres Ilustres","Salario":"4000"},
+				{"id":10, "Puesto":"Demostrador 2", "Tienda":"Toreo","Salario":"4000"},
+				{"id":11, "Puesto":"Promotor 2", "Tienda":"Toreo","Salario":"4000"}
+				]
+}
