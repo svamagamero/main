@@ -10,6 +10,7 @@
 				{"id":8, "Puesto":"Demostrador", "Tienda":"Carrera","Salario":"4000"},
 				{"id":9, "Puesto":"Asesor de ventas", "Tienda":"Hombres Ilustres","Salario":"4000"},
 				{"id":10, "Puesto":"Demostrador 2", "Tienda":"Toreo","Salario":"4000"},
-				{"id":11, "Puesto":"Promotor 2", "Tienda":"Toreo","Salario":"4000"}
+				{"id":11, "Puesto":"Promotor 2", "Tienda":"Toreo","Salario":"4000"},
+				{"id":12, "Puesto":"Subgerente", "Tienda":"Carrera","Salario":"4000"}
 				]
 }
